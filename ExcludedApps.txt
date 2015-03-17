@@ -1,0 +1,40 @@
+.DS_Store
+.localized
+App Store.app
+Automator.app
+Calculator.app
+Calendar.app
+Chess.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+DVD Player.app
+FaceTime.app
+Font Book.app
+Game Center.app
+GarageBand.app
+iBooks.app
+Image Capture.app
+iMovie.app
+iMovie.appdownload
+iPhoto.app
+iTunes.app
+Keynote.app
+Launchpad.app
+Mail.app
+Maps.app
+Messages.app
+Mission Control.app
+Notes.app
+Numbers.app
+Pages.app
+Photo Booth.app
+Preview.app
+QuickTime Player.app
+Reminders.app
+Safari.app
+Stickies.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+Utilities
